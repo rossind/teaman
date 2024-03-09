@@ -1,0 +1,19 @@
+{
+  "name": "teaman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rossind/teaman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rossind/teaman/issues"
+  },
+  "homepage": "https://github.com/rossind/teaman#readme"
+}
